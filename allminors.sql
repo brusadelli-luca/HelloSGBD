@@ -1,0 +1,1 @@
+SELECT * FROM etudiants WHERE (YEAR(naissance) + 18) > YEAR(CURRENT_DATE()) OR (YEAR(naissance) + 18) = YEAR(CURRENT_DATE()) AND MONTH(naissance) > MONTH(CURRENT_DATE()) OR (YEAR(naissance) + 18) = YEAR(CURRENT_DATE()) AND MONTH(naissance) = MONTH(CURRENT_DATE()) AND DAY(naissance) > DAY(CURRENT_DATE())
