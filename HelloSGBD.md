@@ -9,7 +9,7 @@
  * clarté
  * sécurité
 
-Les 
+Les défauts de qualité sont :
 Inexacte : informations manquantes, incomplètes, chiffres faux, fautes d’orthographes…
 Non-conforme : par sa nature ou sa forme, la donnée ne respecte pas la législation ou les normes en vigueur.
 Non-contrôlée : un suivi insuffisant est porté sur la donnée qui peut doublonner avec une autre ou bien se dégrader avec le temps.
@@ -154,11 +154,10 @@ Merise est une méthode d'analyse, de conception et de gestion de projet informa
 
 UML, en français, le Langage de Modélisation Unifié, de l'anglais Unified Modeling Language (UML), est un language de modélisation graphique à base de pictogrammes conçu comme une méthode normalisée de visualisation dans les domaines du développement logiciel et en conception orientée objet.
 
-L'UML est une synthèse de langages de modélisation objet antérieurs.
-
 Outre des différences évidentes de natures, buts et d'utilisations (une méthode d'une part et un langage d'autre part), l'aspect graphique de l'ULM est une caractéristique qui le distingue de Merise.
 
 https://fr.quora.com/Quelle-est-la-diff%C3%A9rence-entre-MERISE-et-UML
+https://www.youtube.com/watch?v=wW9EX9i7OiA
 
 
 ## G. Définissez le langage SQL. Donnez les commandes les plus utilisées de ce langage et les différentes jointures qu’il est possible de faire.
